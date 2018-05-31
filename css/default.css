@@ -134,6 +134,7 @@
 }
 .menu .content li .producto{
     float: left;
+    width: 40%;
 }
 .menu .content li.clasico{
     background: #2C4284;
