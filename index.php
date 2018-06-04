@@ -17,7 +17,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas1.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Finlandia salmon</p>
                     </div>
                 </div>
@@ -27,7 +27,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas2.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Finlandia salmon</p>
                     </div>
                 </div>
@@ -37,7 +37,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas2.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Finlandia salmon</p>
                     </div>
                 </div>
@@ -47,7 +47,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas2.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Finlandia salmon</p>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas2.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Croquetas de papa</p>
                     </div>
                 </div>
@@ -80,7 +80,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas1.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Finlandia salmon</p>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas2.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Finlandia salmon</p>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas2.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Finlandia salmon</p>
                     </div>
                 </div>

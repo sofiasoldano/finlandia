@@ -1,8 +1,8 @@
 <?php $page_name = "desayunos" ?>
 <?php include('header.php'); ?>
 
-<div class="splash large">
-    <img class="background img-responsive" src="img/splash-desayunos.png" alt="Home image">
+<div class="splash large gradient">
+    <img class="background img-responsive" src="img/splash-desayunos.png" alt="Desayunos image">
     <div class="icon-scroll">
         <img src="img/icon-scroll.png" alt="icon" class="icon">
     </div>
@@ -21,7 +21,7 @@
             <li class="slide">
             <a href="#">
             <div class="img-container">
-                <img src="img/desayuno1.png" alt="Waffles con frutos rojos" class="img-responsive">
+                <img src="img/desayuno1b.png" alt="Carrot mug cake" class="img-responsive">
             </div>
             </a>
           </li>
@@ -41,7 +41,7 @@
             <li class="slide">
             <a href="#">
             <div class="img-container">
-                <img src="img/desayuno2.png" alt="Bagel integral" class="img-responsive">
+                <img src="img/desayuno2b.png" alt="Tostada con palta" class="img-responsive">
             </div>
             </a>
           </li>
@@ -62,7 +62,7 @@
             <li class="slide">
             <a href="#">
             <div class="img-container">
-                <img src="img/desayuno3.png" alt="Tostadas con salmon" class="img-responsive">
+                <img src="img/desayuno3b.png" alt="Cheesecake smoothie de frutilla" class="img-responsive">
             </div>
             </a>
           </li>

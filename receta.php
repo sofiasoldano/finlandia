@@ -45,12 +45,12 @@
         </div>
         <div class="step">
             <h3 class="section-title">Paso 2</h3>
-            <img src="img/step2.png" alt="Paso 1" class="img-responsive">
+            <img src="img/step2.png" alt="Paso 2" class="img-responsive">
             <p>Rociar apenas con aceite de oliva. Tostar en horno medio hasta que estén crocantes. Enfriar.</p>
         </div>
         <div class="step">
             <h3 class="section-title">Paso 3</h3>
-            <img src="img/step3.png" alt="Paso 1" class="img-responsive">
+            <img src="img/step3.png" alt="Paso 3" class="img-responsive">
             <p>Servir cada rodaja de pan con una cucharadita de <span class="red">Finlandia Clásico La Serenísima</span>, un gajo de tomate cherry y una ramita de tomillo.</p>
         </div>
         <div class="step final">
@@ -88,7 +88,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas1.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Finlandia salmon</p>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas2.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Finlandia salmon</p>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas2.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Finlandia salmon</p>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
                 <a href="#">
                 <div class="img-container">
                     <img src="img/recetas2.png" alt="Finlandia salmon" class="img-responsive">
-                    <div class="bottom">
+                    <div class="bottom clasico">
                         <p>Finlandia salmon</p>
                     </div>
                 </div>

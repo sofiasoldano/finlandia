@@ -9,7 +9,7 @@ $(document).ready(function() {
         directionNav: false,
         itemWidth: 314,
         itemMargin: 15,
-        minItems: 1.1
+        minItems: 1.05
         
     });
     $('.productos-slider').flexslider({

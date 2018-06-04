@@ -81,6 +81,21 @@ header.active{
 }
 
 /* SPLASHES */
+.clasico{
+    background: #2C4284;
+}
+.salmon{
+    background: #FF8673;
+}
+.balance{
+    background: #009ED0;
+}
+.light{
+    background: #9CD87B;
+}
+.gruyere{
+    background: #EBBD49;
+}
 .splash{
     position: relative;
     width: 100%;
@@ -101,14 +116,20 @@ header.active{
     background: #000000;
     opacity: 0.6;
 }
+
+.splash.gradient:before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, transparent 16%)
+}
+
 .splash .background{
     width: 100%;
     height: 100%;
     object-fit: cover;
     object-position: center;
-}
-.splash .background.clasico{
-    background: #2C4284;
 }
 .splash .icon-scroll{
     position: absolute;
@@ -192,7 +213,7 @@ header.active{
 .top-absolute .items{
     position: absolute;
     bottom: 48px;
-    right: -12px;
+    right: -3px;
 }
 .top-absolute .items li{
     display: inline-block;

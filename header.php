@@ -18,7 +18,7 @@
 
     <body class="<?php echo $page_name; ?>">
         <header>
-            <?php if ($page_name=="home" || ($page_name=="desayunos")){ ?>
+            <?php if ($page_name=="home"){ ?>
             <img src="img/logo-blue.png" width="133" alt="Logo Finlandia" class="logo-default">
             <?php } else { ?>
             <img src="img/logo-white.png" width="133" alt="Logo Finlandia" class="logo-default">

@@ -136,21 +136,6 @@
     float: left;
     max-width: 40%;
 }
-.menu .content li.clasico{
-    background: #2C4284;
-}
-.menu .content li.salmon{
-    background: #FF8673;
-}
-.menu .content li.balance{
-    background: #009ED0;
-}
-.menu .content li.light{
-    background: #9CD87B;
-}
-.menu .content li.gruyere{
-    background: #EBBD49;
-}
 .menu-title{
     position: absolute;
     top: 35px;
@@ -219,7 +204,22 @@
     width: 100%;
     height: 80px;
     text-align: center;
+    
+}
+.img-container .bottom.clasico{
     background: rgba(65, 98, 127, 0.8);
+}
+.img-container .bottom.salmon{
+    background: rgba(255, 134, 115, 0.8);
+}
+.img-container .bottom.balance{
+    background: rgba(0, 158, 208, 0.8);
+}
+.img-container .bottom.light{
+    background: rgba(156, 216, 123, 0.8);
+}
+.img-container .bottom.gruyere{
+    background: rgba(235, 189, 73, 0.8);
 }
 .recetas-slider .img-container .bottom p{
     color: #ffffff;

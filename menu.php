@@ -44,31 +44,31 @@
         <ul id="menu-recetas" class="inner-content hidden">
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
@@ -89,43 +89,43 @@
         <ul id="menu-desayunos" class="inner-content hidden">
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
             <li>
                 <a href="#">
-                    <img src="img/receta1.png" class="img-responsive background">
+                    <img src="img/receta1.png" class="img-responsive background" alt="Finlandia salmon">
                     <div class="menu-title">Finlandia salmon</div>
                 </a>
             </li>
