@@ -78,14 +78,7 @@
 </div>
 
 <div class="container">
-    <div class="mailer">
-        <p class="desc">Si te interesa saber cuándo hay nuevas recetas, podés dejarnos aquí tu email y te avisaremos:</p>
-        <form>
-            <input type="email" placeholder="Email">
-            <button type="submit" class="green-btn"> Subscribirse </button>
-            <button class="green-btn facebook">Subscribirse con facebook</button>
-        </form>
-    </div>
+    <?php include('form-suscription.php'); ?>
 
     <div class="slider">
         <h2 class="title">Descubrí otras <span>recetas</span></h2>
@@ -137,4 +130,5 @@
     </div>
 </div>
 
+<?php include('menu.php'); ?>
 <?php include('footer.php'); ?>
