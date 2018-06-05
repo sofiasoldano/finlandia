@@ -37,6 +37,8 @@
         </ul>
     </div>
 
+<?php require 'fold.inc.php' ?>
+
     <div class="steps">
         <div class="step">
             <h3 class="section-title">Paso 1</h3>
