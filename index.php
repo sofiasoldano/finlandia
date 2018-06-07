@@ -6,6 +6,8 @@
     <div class="icon-scroll"></div>
 </div>
 
+<?php require 'fold.inc.php' ?>
+
 <div class="container">
     <div class="slider">
         <h2 class="title">Descubrí <span>nuestras recetas</span></h2>

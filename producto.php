@@ -34,6 +34,8 @@
 
     </div>
 
+<?php require 'fold.inc.php' ?>
+
     <div class="nutricional">
         <h3 class="section-title">Tabla nutricional</h3>
         <table  class="tabla-nutricional">

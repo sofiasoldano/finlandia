@@ -6,6 +6,8 @@
     <div class="icon-scroll"></div>
 </div>
 
+<?php require 'fold.inc.php' ?>
+
 <div class="slider">
     <div class="flexslider desayunos-slider">
         <ul class="slides">
