@@ -3,9 +3,7 @@
 
 <div class="splash large">
     <img class="background img-responsive" src="img/splash-home.png" alt="Home image">
-    <div class="icon-scroll">
-        <img src="img/icon-scroll.png" alt="icon" class="icon">
-    </div>
+    <div class="icon-scroll"></div>
 </div>
 
 <div class="container">

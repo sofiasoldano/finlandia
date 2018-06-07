@@ -3,9 +3,7 @@
 
 <div class="splash large gradient">
     <img class="background img-responsive" src="img/splash-desayunos.png" alt="Desayunos image">
-    <div class="icon-scroll">
-        <img src="img/icon-scroll.png" alt="icon" class="icon">
-    </div>
+    <div class="icon-scroll"></div>
 </div>
 
 <div class="slider">

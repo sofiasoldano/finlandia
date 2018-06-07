@@ -133,7 +133,11 @@ header.active{
 }
 .splash .icon-scroll{
     position: absolute;
-    background: #008B45;
+    background-color: #008B45;
+    background-image: url(../img/icon-scroll.png);
+    background-repeat: no-repeat;
+    background-position-x: 9px;
+    background-position-y: 15px;
     display: block;
     width: 40px;
     height: 40px;

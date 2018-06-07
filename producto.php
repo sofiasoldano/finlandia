@@ -5,7 +5,6 @@
 <div class="splash">
     <div class="background clasico">
     <div class="main-title"><span>Finlandia</span><img src="img/clasico.png"></div>
-
 </div>
 
 <div class="container">
@@ -22,6 +21,7 @@
             <h4 class="section-subtitle">Formato</h4>
             <p>Pote de 200 y 300 gr</p>
         </div>
+        
         <div class="desc">
             <h4 class="section-subtitle">Presentación</h4>
             <p>Para Untar</p>
