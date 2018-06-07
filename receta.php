@@ -65,16 +65,16 @@
     <p>Compartí la receta con tus amigos</p>
     <ul class="social-media">
         <li>
-            <a href="#"><img src="img/facebook-logo.png"></a>
+            <a href="#"><img src="img/facebook-logo.png" alt="Faceboof logo"></a>
         </li>
         <li>
-            <a href="#"><img src="img/twitter-logo.png"></a>
+            <a href="#"><img src="img/twitter-logo.png" alt="Twitter logo"></a>
         </li>
         <li>
-            <a href="#"><img src="img/google-logo.png"></a>
+            <a href="#"><img src="img/google-logo.png" alt="Google+ logo"></a>
         </li>
         <li>
-            <a href="#"><img src="img/pinterest-logo.png"></a>
+            <a href="#"><img src="img/pinterest-logo.png" alt="Pinterest logo"></a>
         </li>
     </ul>
 </div>

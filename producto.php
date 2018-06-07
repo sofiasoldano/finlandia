@@ -4,7 +4,7 @@
 
 <div class="splash">
     <div class="background clasico">
-    <div class="main-title"><span>Finlandia</span><img src="img/clasico.png"></div>
+    <div class="main-title"><span>Finlandia</span><img src="img/clasico.png" alt="Finlandia Clásico"></div>
 </div>
 
 <div class="container">
