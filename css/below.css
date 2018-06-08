@@ -99,15 +99,35 @@
 .menu .submenu li:last-of-type:after{
     display: none;
 }
-.menu .submenu li .active{
-    display: none;
+.menu .submenu li .icon{
+    width: 45px;
+    height: 45px;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-indent: -99999px;
+    margin: 0 auto;
 }
-.menu .submenu li.active .active{
-    display: initial;
+.menu .submenu li .productos{
+    background-image: url(img/menu/icon-productos.png);
 }
-.menu .submenu li.active .default{
-    display: none;
+.menu .submenu li.active .productos{
+    background-image: url(img/menu/icon-productos-active.png);
 }
+.menu .submenu li .recetas{
+    background-image: url(img/menu/icon-recetas.png);
+    background-position: top;
+}
+.menu .submenu li.active .recetas{
+    background-image: url(img/menu/icon-recetas-active.png);
+}
+.menu .submenu li .desayunos{
+    background-image: url(img/menu/icon-desayunos.png);
+}
+
+.menu .submenu li.active .desayunos{
+    background-image: url(img/menu/icon-desayunos-active.png);
+}
+
 .menu .content{
     width: 75%;
     float: left;
@@ -134,7 +154,30 @@
 }
 .menu .content li .producto{
     float: left;
+    width: 110px;
+    height: 95px;
     max-width: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-indent: -99999px;
+}
+.menu .clasico .producto{
+    background-image: url("img/productos/clasico.png");
+}
+.menu .salmon .producto{
+    background-image: url("img/productos/salmon.png");
+}
+.menu .balance .producto{
+    background-image: url("img/productos/balance.png");
+}
+.menu .light .producto{
+    background-image: url("img/productos/light.png");
+}
+.menu .salmon.cheddar .producto{
+    background-image: url("img/productos/cheddar.png");
+}
+.menu .gruyere .producto{
+    background-image: url("img/productos/gruyere.png");
 }
 .menu-title{
     position: absolute;
@@ -289,8 +332,36 @@
     display: inline-block;
     margin: 10px 5px;
 }
+.social-banner .social-media li a{
+    display: block;
+    width: 35px;
+    height: 35px;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-indent: -99999px;
+}
+.social-banner .social-media li .fb{
+    background-image: url("img/facebook-logo.png");
+}
+.social-banner .social-media li .tw{
+    background-image: url("img/twitter-logo.png");
+}
+.social-banner .social-media li .go{
+    background-image: url("img/google-logo.png");
+}
+.social-banner .social-media li .pin{
+    background-image: url("img/pinterest-logo.png");
+}
 .banner-image{
-    margin: 30px auto 50px;
+    width: 268px;
+    height: 190px;
+    max-width: 100%;
+    margin: 0 auto;
+    background-image: url(img/social-banner.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-indent: -99999px;
 }
 
 /* TABLA NUTRICIONAL */
@@ -392,14 +463,19 @@ footer .social-media li a{
     display: block;
     width: 100%;
     height: 100%;
-    padding-top: 15px;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-indent: -99999px;
 }
 footer .social-media .wp{
-    background: #40B87E;
+    background-color: #40B87E;
+    background-image: url("img/wp.png");
 }
 footer .social-media .fb{
-    background: #2E5D9E;
+    background-color: #2E5D9E;
+    background-image: url("img/fb.png");
 }
 footer .social-media .tw{
-    background: #22C3FF;
+    background-color: #22C3FF;
+    background-image: url("img/tw.png");
 }

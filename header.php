@@ -13,9 +13,9 @@
             <?php if ($page_name=="home"){ ?>
             <img src="img/logo-blue.png" width="133" alt="Logo Finlandia" class="logo-default">
             <?php } else { ?>
-            <img src="img/logo-white.png" width="133" alt="Logo Finlandia" class="logo-default">
+            <div  class="logo-default logo-white">Logo Finlandia</div>
             <?php }; ?>
-            <img src="img/logo-finlandia.png" width="133" alt="Logo Finlandia" class="logo-active hidden">
+            <div  class="logo-active logo-white hidden">Logo Finlandia</div>
             <div class="menu-icon">
                 <div class="line"></div>
                 <div class="line"></div>

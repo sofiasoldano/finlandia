@@ -1,41 +1,40 @@
-
 <div class="menu">
     <div class="content">
         <ul id="menu-productos" class="inner-content">
             <li class="salmon">
                 <a href="#">
-                <img src="img/producto2.png" width="110" alt="Finlandia light salmon" class="producto">
-                <div class="title-productos large">Finlandia light salmon</div>
+                    <div class="producto">Finlandia light salmon</div>
+                    <div class="title-productos large">Finlandia light salmon</div>
                 </a>
             </li>
             <li class="balance">
                 <a href="#">
-                <img src="img/producto3.png" width="110" alt="Finlandia Light Balance" class="producto">
-                <div class="title-productos large">Finlandia light balance</div>
+                    <div class="producto">Finlandia Light Balance</div>
+                    <div class="title-productos large">Finlandia light balance</div>
                 </a>
             </li>
             <li class="light">
                 <a href="#">
-                <img src="img/producto4.png" width="110" alt="Finlandia Light" class="producto">
-                <div class="title-productos">Finlandia light</div>
+                    <div class="producto">Finlandia Light</div>
+                    <div class="title-productos">Finlandia light</div>
                 </a>
             </li>
-            <li class="salmon">
+            <li class="cheddar salmon">
                 <a href="#">
-                <img src="img/producto5.png" width="110" alt="Finlandia Cheddar Salmon" class="producto">
-                <div class="title-productos large">Finlandia cheddar salmon</div>
+                    <div class="producto">Finlandia Cheddar Salmon</div>
+                    <div class="title-productos large">Finlandia cheddar salmon</div>
                 </a>
             </li>
             <li class="clasico">
                 <a href="#">
-                <img src="img/producto1.png" width="110" alt="Finlandia Clasico" class="producto">
-                <div class="title-productos">Finlandia clasico</div>
+                    <div class="producto">Finlandia Clasico</div>
+                    <div class="title-productos">Finlandia clasico</div>
                 </a>
             </li>
             <li class="gruyere">
                 <a href="#">
-                <img src="img/producto6.png" width="110" alt="Finlandia gruyere" class="producto">
-                <div class="title-productos large">Finlandia light guryere</div>
+                    <div class="producto">Finlandia gruyere</div>
+                    <div class="title-productos large">Finlandia light guryere</div>
                 </a>
             </li>
 
@@ -134,18 +133,15 @@
     <div class="submenu">
         <ul>
             <li onclick="submenu('#menu-productos', 1);">
-                <img src="img/icon-productos.png" alt="Productos" class="default" >
-                <img src="img/icon-productos-active.png" alt="Productos" class="active" >
+                <div class="icon productos">Productos</div>
                 <div>Productos</div>
             </li>
             <li onclick="submenu('#menu-recetas', 2);" class="active">
-                <img src="img/icon-recetas.png" alt="Recetas" class="default">
-                <img src="img/icon-recetas-active.png" alt="Recetas" class="active">
+                <div class="icon recetas">Recetas</div>
                 <div>Recetas</div>
             </li>
             <li onclick="submenu('#menu-desayunos', 3);">
-                <img src="img/icon-desayunos.png" alt="Desayunos" class="default">
-                <img src="img/icon-desayunos-active.png" alt="Desayunos" class="active">
+                <div class="icon desayunos">Desayunos</div>
                 <div>Desayunos</div>
             </li>
         </ul>

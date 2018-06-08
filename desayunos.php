@@ -70,20 +70,20 @@
     </div>
 </div>  
 <div class="social-banner">
-    <img class="img-responsive banner-image" src="img/social-banner.png" alt="Somos lo que desayunamos">
+    <div class="banner-image">Somos lo que desayunamos</div>
     <p>Compartí <span class="red">nuestros desayunos</span> con tus amigos</p>
     <ul class="social-media">
         <li>
-            <a href="#"><img src="img/facebook-logo.png" alt="Faceboof logo"></a>
+            <a href="#" class="fb">Facebook logo</a>
         </li>
         <li>
-            <a href="#"><img src="img/twitter-logo.png" alt="Twitter logo"></a>
+            <a href="#" class="tw">Twitter logo</a>
         </li>
         <li>
-            <a href="#"><img src="img/google-logo.png" alt="Google+ logo"></a>
+            <a href="#" class="go">Google+ logo</a>
         </li>
         <li>
-            <a href="#"><img src="img/pinterest-logo.png" alt="Pinterest logo"></a>
+            <a href="#" class="pin">Pinterest logo</a>
         </li>
     </ul>
 </div>

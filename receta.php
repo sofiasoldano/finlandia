@@ -2,7 +2,7 @@
 <?php include('header.php'); ?>
 
 <div class="splash filter">
-    <img class="background img-responsive" src="img/splash-productos.png" alt="Product image">
+    <div class="background">Product image</div>
     <h1 class="main-title"><span>Bruschetas <br> Finlandia</span> libres de gluten</h1>
 </div>
 
@@ -65,16 +65,16 @@
     <p>Compartí la receta con tus amigos</p>
     <ul class="social-media">
         <li>
-            <a href="#"><img src="img/facebook-logo.png" alt="Faceboof logo"></a>
+            <a href="#" class="fb">Facebook logo</a>
         </li>
         <li>
-            <a href="#"><img src="img/twitter-logo.png" alt="Twitter logo"></a>
+            <a href="#" class="tw">Twitter logo</a>
         </li>
         <li>
-            <a href="#"><img src="img/google-logo.png" alt="Google+ logo"></a>
+            <a href="#" class="go">Google+ logo</a>
         </li>
         <li>
-            <a href="#"><img src="img/pinterest-logo.png" alt="Pinterest logo"></a>
+            <a href="#" class="pin">Pinterest logo</a>
         </li>
     </ul>
 </div>

@@ -39,6 +39,7 @@ img {
 /* HEADER */
 header{
     width: 100%;
+    height: 75px;
     position: fixed;
     top: 0;
     left: 0;
@@ -49,6 +50,19 @@ header{
 header.active{
     background: #41627F; 
     transition: all 0.5s;
+}
+header .logo-white{
+    margin: 0 auto;
+    width: 133px;
+    height: 72px;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-indent: -99999px;
+    background-image: url("img/logo-white.png");
+    background-size: contain;
+}
+header .logo-white.logo-active{
+    background-image: url("img/logo-finlandia.png");
 }
 .menu-icon{
     position: absolute;
@@ -130,11 +144,17 @@ header.active{
     height: 100%;
     object-fit: cover;
     object-position: center;
+    background-size: cover;
+    text-indent: -999999px;
+}
+.receta .splash .background{
+    background-image: url("img/splash-recetas.png");
+        
 }
 .splash .icon-scroll{
     position: absolute;
     background-color: #008B45;
-    background-image: url(../img/icon-scroll.png);
+    background-image: url(img/icon-scroll.png);
     background-repeat: no-repeat;
     background-position-x: 9px;
     background-position-y: 15px;
@@ -164,13 +184,21 @@ header.active{
     top: calc(50% - 75px);
     text-align: center;
     width: 100%;
+    text-indent: 0;
 }
 .main-title span{
     display: block;
     font-weight: 600;
 }
-.main-title img{
-    margin-top: 8px;
+.main-title .type{
+    height: 50px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-indent: -99999px;   
+}
+.main-title .type.clasico{
+    background-image: url("img/clasico.png");
 }
 
 /* WHITE BOX */
@@ -234,11 +262,11 @@ header.active{
     background-repeat: no-repeat;
 }
 .top-absolute .items .unid{
-    background-image: url(../img/icon-unid.png);
+    background-image: url(img/icon-unid.png);
 }
 .top-absolute .items .dif{
-    background-image: url(../img/icon-dif.png);
+    background-image: url(img/icon-dif.png);
 }
 .top-absolute .items .time{
-    background-image: url(../img/icon-time.png);
+    background-image: url(img/icon-time.png);
 }
